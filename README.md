@@ -1,4 +1,4 @@
-# Notes or Nothing
+# Operation Brilliant
 
 ## Write notes quickly without getting caught by your teacher!
 
